@@ -12,6 +12,8 @@ User is then asked to choose a way to display the data: pie chart, bar chart and
 
 ![](misc/pie.png) ![](misc/bar.png) ![](misc/horizontal.png)
 
+<br>
+
 ### Activity object stores each activity
 After users enter data, each activity, along with its duration and priority, is stored as an Activity object. The Activity class defines a Activity object that will be added to priority queue. It extends Comparable<> class, thus can be compared, and has three parameters: activity duration, content and priority level. There are methods to get these data, and a compareTo method that defines the relationship between Activity objects in a priority queue.
 
