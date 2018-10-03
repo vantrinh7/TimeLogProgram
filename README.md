@@ -1,5 +1,15 @@
 # Time Log Program
 
-This program allows users to track their daily activities, record the duration of the activities and assign a priority to each activity. This program help users keep track of their time budget and get priorities straight in their daily lives.
+This program helps users keep track of their time budget and get priorities straight in their daily lives. It allows users to record their daily activities, document the duration and assign a priority to each activity.
 
-The time and activities are analyzed in three different types of visuals: pie chart, bar chart and horizontal stacked bar chart.
+![](misc/begin.png)  ![](misc/filled.png)
+
+When user clicks "Analyze" button, the given data is collected and calculated.
+
+![](misc/options.png)
+
+User is then asked to choose a way to display the data: pie chart, bar chart and horizontal stacked bar chart.
+
+![](misc/pie.png) ![](misc/bar.png) ![](misc/horizontal.png)
+
+
