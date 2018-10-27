@@ -1,6 +1,6 @@
 # Time Log Program
 
-This program helps users keep track of their time budget and get priorities straight in their daily lives. It allows users to record their daily activities, document the duration and assign a priority to each activity.
+This program helps users keep track of their weekly time budget and get priorities straight in their daily lives. It allows users to record their daily activities, document the duration and assign a priority to each activity.
 
 ![](misc/begin.png)  ![](misc/filled.png)
 
@@ -15,7 +15,7 @@ User is then asked to choose a way to display the data: pie chart, bar chart and
 <br>
 
 ## Activity object stores each activity
-After users enter data, each activity, along with its duration and priority, is stored as an Activity object. The Activity class defines a Activity object that will be added to priority queue. It extends Comparable<> class, thus can be compared, and has three parameters: activity duration, content and priority level. There are methods to get these data, and a compareTo method that defines the relationship between Activity objects in a priority queue.
+After users enter data, each activity, along with its duration and priority, is stored as an Activity object. The [Activity](https://github.com/vantrinh7/TimeLogProgram/blob/master/src/Activity.java) class defines a Activity object that will be added to priority queue. It extends Comparable<> class, thus can be compared, and has three parameters: activity duration, content and priority level. There are methods to get these data, and a compareTo method that defines the relationship between Activity objects in a priority queue.
 
 ## Constructing priority queues
 
