@@ -1,6 +1,6 @@
 # Time Log Program
 
-This program helps users keep track of their weekly time budget and get priorities straight in their daily lives. It allows users to record their daily activities, document the duration and assign a priority to each activity.
+This program helps users keep track of their weekly time budget and get priorities straight in their daily lives. It allows users to record the content, document the duration and assign a priority to each activity.
 
 ![](misc/begin.png)  ![](misc/filled.png)
 
